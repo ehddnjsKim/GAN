@@ -1,0 +1,32 @@
+# 가상환경
+venv/
+.venv/
+ENV/
+env/
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pth
+*.png
+*.jpg
+*.txt
+
+# 패키지 설치 관련
+*.egg-info/
+*.egg
+dist/
+build/
+
+
+# IDE/에디터 관련
+.vscode/
+.idea/
+
+# 데이터/기록
+*.log
+*.csv
+*.sqlite3
+*.db
